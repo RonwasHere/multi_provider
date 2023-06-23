@@ -1,16 +1,6 @@
 # multi_provider
 
-A new Flutter project.
+video program = https://www.loom.com/share/e51159f832ba4dafb504e9930b9aaf1c?sid=9fa2b62d-a504-4e4f-9876-38e265b78bce
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/RonwasHere/multi_provider/assets/97945445/f6310220-1668-4212-8de3-1914773660a2)
